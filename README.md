@@ -1,7 +1,7 @@
 ## Hi there, I'm Marianne Sievers👋
 
 I love finding out things - the most if they seem important to know - not only to me but to the world 🗺️.
-> ... see for example my final project of Le Wagon Data Analysis bootcamp: "Armed Peace - What the Data reveals" https://www.youtube.com/watch?v=JgNjybgQtTI&ab_channel=LeWagon
+> ... see for example my final project of Le Wagon Data Analysis bootcamp that I worked on with my batch mates Tesiana and Khaola: "Armed Peace - What the Data reveals" https://www.youtube.com/watch?v=JgNjybgQtTI&ab_channel=LeWagon
 
 ## About me
 And that's also why I was a freelance ✍️ journalist at some point in my life - while having different main jobs which all had a focus on communications and social media.
